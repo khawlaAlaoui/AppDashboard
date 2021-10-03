@@ -3,7 +3,7 @@ from fonctions import *
 import socket
 
 
-st.set_page_config(page_title='Station',page_icon=":car:",  layout = 'wide', initial_sidebar_state = 'auto')
+st.set_page_config(page_title='Station',page_icon=":car:",  layout = 'wide', initial_sidebar_state = 'collapsed')
 
 
 hide_streamlit_style = """
